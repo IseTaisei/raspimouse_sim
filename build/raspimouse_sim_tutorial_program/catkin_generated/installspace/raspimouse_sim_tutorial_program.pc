@@ -1,0 +1,8 @@
+prefix=/home/ise/catkin_ws/install
+
+Name: raspimouse_sim_tutorial_program
+Description: Description of raspimouse_sim_tutorial_program
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

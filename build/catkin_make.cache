@@ -1,0 +1,2 @@
+raspimouse_ros:raspimouse_ros_2:raspimouse_sim/raspimouse_control:raspimouse_sim/raspimouse_description:raspimouse_sim/raspimouse_gazebo:raspimouse_sim/raspimouse_sim:raspimouse_sim_tutorial_program
+-DCATKIN_DEVEL_PREFIX=/home/ise/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ise/catkin_ws/install -G Unix Makefiles

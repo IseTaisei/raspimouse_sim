@@ -1,0 +1,8 @@
+prefix=/home/ise/catkin_ws/install
+
+Name: raspimouse_gazebo
+Description: Description of raspimouse_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
